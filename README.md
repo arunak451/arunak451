@@ -10,7 +10,7 @@
   <br/><br/>
   
   <!-- Dynamic Badges -->
-  <a href="https://linkedin.com/in/arunak451">
+  <a href="https://linkedin.com/in/arun-kumar-5516572a5">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:aruarun142004@gmail.com">
@@ -23,10 +23,10 @@
 
 ## 💫 About Me
 
-I am a passionate **AI/ML Developer** and **Full-Stack Software Engineer** dedicated to building intelligent automated workflows, smart search systems, and robust backend applications. I enjoy converting complex requirements into elegant, high-performance code.
+I am an **AI/ML Engineer** at **Xplore Intellects Pvt Ltd** and Full-Stack Software Developer dedicated to building production-ready automated workflows, Generative AI applications, and robust search engines. I enjoy converting complex requirements into elegant, high-performance code.
 
-- 🧠 **Focus Areas:** Natural Language Processing (NLP), Intelligent Agent Workflows, Computer Vision, and Automation.
-- 🛠️ **Current Pursuits:** Advancing search engine intelligence and AI agent architectures.
+- 🧠 **Focus Areas:** Generative AI (LLMs & RAG), Autonomous AI Agents, Computer Vision, and MLOps.
+- 🛠️ **Current Pursuits:** Advancing search engine intelligence and intelligent agent workflows.
 - ⚡ **Fun Fact:** I love scraping unstructured data from the web and transforming it into useful knowledge graphs!
 
 ---
@@ -52,13 +52,17 @@ I am a passionate **AI/ML Developer** and **Full-Stack Software Engineer** dedic
 An AI-powered Deep Research Search Engine built in Python. It aggregates, compiles, scrapes, and parses business data from 6 channels (Google, Google Maps, LinkedIn, YouTube, News API, and custom BeautifulSoup web scraping). Using Groq's Llama 3.1 8B, it structures raw findings into premium market research reports, with exports to PDF, Excel, and TXT.
 * **Tech Stack:** Python, Django/Flask, BeautifulSoup, SerpApi, RapidAPI, Groq API, ReportLab, OpenPyXL.
 
-### 🎙️ [xploreitvoice](https://github.com/arunak451/xploreitvoice)
-A voice-activated assistant tailored for custom task automation, local application launching, and web queries.
-* **Tech Stack:** Python, SpeechRecognition, Pyttsx3, OS Automation.
+### 📬 [Daily Job Digest (automatejobsearch)](https://github.com/arunak451/automatejobsearch)
+An automated daily job discovery pipeline that reads job alerts from Gmail (LinkedIn, Naukri, Indeed), integrates Google Jobs, scores matches using Groq LLM, selects from 4 tailored resumes, and auto-drafts custom cover letters delivered to inbox every morning at 9:00 AM IST.
+* **Tech Stack:** Python, Gmail IMAP, Groq LLaMA 3.1, SerpApi, Report Generation.
 
-### 👁️ [Computer Vision Suite](https://github.com/arunak451/computer_vision)
-A playground of state-of-the-art computer vision scripts featuring real-time object tracking, facial analysis, and shape detection.
-* **Tech Stack:** Python, OpenCV, PyTorch, NumPy.
+### 🎙️ [AI Voice Agent](https://github.com/arunak451/ai-voice-agent)
+An end-to-end autonomous AI voice agent combining speech-to-text (STT), LLM-based dialogue management, and realistic text-to-speech (TTS) for automated calling and real-time customer support.
+* **Tech Stack:** Python, Speech-to-Text, LLM, TTS, API Webhooks.
+
+### 👁️ [Real-Time Emotion Detector](https://github.com/arunak451/realtime-emotion-detector)
+A real-time computer vision system that classifies facial expressions and emotional states directly from live webcam feeds at 30+ FPS.
+* **Tech Stack:** Python, OpenCV, Deep Learning, PyTorch, CNNs.
 
 ---
 
@@ -91,5 +95,5 @@ A playground of state-of-the-art computer vision scripts featuring real-time obj
 ## 🤝 Let's Connect!
 
 - **Email:** [aruarun142004@gmail.com](mailto:aruarun142004@gmail.com)
-- **LinkedIn:** [/in/arunak451](https://linkedin.com/in/arunak451)
+- **LinkedIn:** [arun-kumar-5516572a5](https://linkedin.com/in/arun-kumar-5516572a5)
 - **GitHub:** [github.com/arunak451](https://github.com/arunak451)
